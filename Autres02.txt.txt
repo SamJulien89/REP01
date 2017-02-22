@@ -1,5 +1,10 @@
 Exemple de fichier no 2
 Ajout dans le HEAD
 bhjhjhjhjhj
+<<<<<<< .mine
 test
 ccxcxcxxc
+=======
+cxcxcxxc
+test
+>>>>>>> .theirs
